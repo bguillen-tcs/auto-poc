@@ -1,6 +1,7 @@
 {
   "exclude": [
-    "storybook-static/**/*"
+    "storybook-static/**/*",
+    "src/**/*.stories.tsx"
   ],
   "compilerOptions": {
     "jsx": "react",
