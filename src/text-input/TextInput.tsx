@@ -6,6 +6,9 @@ interface TextInputProps {
   name: string
 }
 
+/**
+ * Text input component, which includes the label
+ */
 const TextInput = ({
   id,
   label,
