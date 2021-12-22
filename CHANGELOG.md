@@ -1,3 +1,15 @@
+# v0.3.1 (Wed Dec 22 2021)
+
+#### 🐛 Bug Fix
+
+- Text Input - Deprecate Class Name [#4](https://github.com/bguillen-tcs/auto-poc/pull/4) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # v0.3.0 (Wed Dec 22 2021)
 
 #### 🚀 Enhancement
