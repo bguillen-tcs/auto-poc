@@ -5,6 +5,9 @@ interface HeaderProps {
   text: string
 }
 
+/**
+ * Header component which supports h1 and h2
+ */
 const Header = ({
   level,
   text
