@@ -1,3 +1,26 @@
+# v0.5.0 (Thu Dec 23 2021)
+
+#### 🚀 Enhancement
+
+- feat(margin): add support for m [#9](https://github.com/bguillen-tcs/auto-poc/pull/9) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- Components Package Refactor [#7](https://github.com/bguillen-tcs/auto-poc/pull/7) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### 🐛 Bug Fix
+
+- feat: add support for p, padding [#8](https://github.com/bguillen-tcs/auto-poc/pull/8) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### ⚠️ Pushed to `master`
+
+- chore: update cmds for release ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: update package jsons for auto ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: initial commit ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # v0.4.0 (Thu Dec 23 2021)
 
 #### 🚀 Enhancement
