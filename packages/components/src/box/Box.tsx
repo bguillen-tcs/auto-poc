@@ -2,13 +2,15 @@ import React from 'react';
 
 interface BoxProps {
   children: JSX.Element
+  p: string
 }
 
 const Box = ({
-  children
+  children,
+  p
 }: BoxProps) => {
   return (
-    <div>
+    <div style={{ padding: p }}>
       {children}
     </div>
   )
