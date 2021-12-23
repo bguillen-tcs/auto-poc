@@ -5,10 +5,16 @@
     "url": "git+https://github.com/bguillen-tcs/auto-poc.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bryan Guillen",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bguillen-tcs/auto-poc/issues"
   },
-  "homepage": "https://github.com/bguillen-tcs/auto-poc"
+  "homepage": "https://github.com/bguillen-tcs/auto-poc",
+  "auto": {
+    "plugins": [
+      "npm"
+    ],
+    "onlyPublishWithReleaseLabel": true
+  }
 }
