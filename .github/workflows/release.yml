@@ -32,5 +32,4 @@ jobs:
           cd packages/components
           npm ci
           npm run build
-          cd ../../
           npx auto shipit
