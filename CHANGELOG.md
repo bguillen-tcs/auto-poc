@@ -1,3 +1,26 @@
+# v0.4.0 (Thu Dec 23 2021)
+
+#### 🚀 Enhancement
+
+- Component - Box [#6](https://github.com/bguillen-tcs/auto-poc/pull/6) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### ⚠️ Pushed to `master`
+
+- chore: add npm ci and npm run build commands to release ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: update main -- entry point -- for pkg ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: add files to choose what gets published ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: add comment to test push to master ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### 📝 Documentation
+
+- Components - Add Comments [#5](https://github.com/bguillen-tcs/auto-poc/pull/5) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # v0.3.1 (Wed Dec 22 2021)
 
 #### 🐛 Bug Fix
