@@ -2,7 +2,7 @@
   "name": "@bguillen-tcs/auto-poc",
   "version": "0.3.1",
   "description": "POC for Auto (https://intuit.github.io/auto/index), used to learn more about and its capabilities. ",
-  "main": "index.js",
+  "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@bguillen-tcs"
   },
