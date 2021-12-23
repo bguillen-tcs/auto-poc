@@ -1,0 +1,14 @@
+{
+  "name": "auto-poc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bguillen-tcs/auto-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bguillen-tcs/auto-poc/issues"
+  },
+  "homepage": "https://github.com/bguillen-tcs/auto-poc"
+}
