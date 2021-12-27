@@ -1,18 +1,20 @@
 import React from 'react';
 
 interface BoxProps {
+  border: string
   children: JSX.Element
   m: string
   p: string
 }
 
 const Box = ({
+  border,
   children,
   m,
   p
 }: BoxProps) => {
   return (
-    <div style={{ padding: p, margin: m }}>
+    <div style={{ border, padding: p, margin: m }}>
       {children}
     </div>
   )
