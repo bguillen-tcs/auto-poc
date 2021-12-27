@@ -1,3 +1,22 @@
+# v0.5.1 (Mon Dec 27 2021)
+
+#### 🐛 Bug Fix
+
+- feat: add support for className [#13](https://github.com/bguillen-tcs/auto-poc/pull/13) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- feat: add support for className ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- feat: add support for display prop [#12](https://github.com/bguillen-tcs/auto-poc/pull/12) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- feat: add support for display prop ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### ⚠️ Pushed to `master`
+
+- Merge branch 'master' of https://github.com/bguillen-tcs/auto-poc ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # v0.5.0 (Mon Dec 27 2021)
 
 #### 🚀 Enhancement
