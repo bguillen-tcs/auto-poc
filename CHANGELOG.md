@@ -1,5 +1,18 @@
 # (Mon Dec 27 2021)
 
+#### 🚀 Enhancement
+
+- `@bguillen-tcs/communication@0.1.0`
+  - Feature/communication package [#14](https://github.com/bguillen-tcs/auto-poc/pull/14) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
+# (Mon Dec 27 2021)
+
 #### 🐛 Bug Fix
 
 - `@bguillen-tcs/auto-poc@0.5.1`
