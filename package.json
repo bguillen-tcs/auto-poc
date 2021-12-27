@@ -5,7 +5,8 @@
     "url": "git+https://github.com/bguillen-tcs/auto-poc.git"
   },
   "scripts": {
-    "bootstrap": "lerna bootstrap --hoist"
+    "bootstrap": "lerna bootstrap --hoist",
+    "build-components": "cd packages/components/ && npm run build"
   },
   "keywords": [],
   "author": "Bryan Guillen",
