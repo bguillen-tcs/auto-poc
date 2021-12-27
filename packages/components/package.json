@@ -1,6 +1,6 @@
 {
   "name": "@bguillen-tcs/auto-poc",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "POC for Auto (https://intuit.github.io/auto/index), used to learn more about and its capabilities. ",
   "main": "dist/index.js",
   "publishConfig": {
@@ -34,7 +34,6 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "dependencies": {},
   "repository": "bguillen-tcs/auto-poc",
   "files": [
     "dist/**/*"
