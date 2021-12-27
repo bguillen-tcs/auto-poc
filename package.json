@@ -8,6 +8,9 @@
     "bootstrap": "lerna bootstrap --hoist",
     "build-components": "cd packages/components/ && npm run build"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@bguillen-tcs"
+  },
   "keywords": [],
   "author": "Bryan Guillen",
   "license": "MIT",
