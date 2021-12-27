@@ -1,0 +1,16 @@
+{
+  "name": "@bguillen-tcs/communication",
+  "version": "0.0.1",
+  "description": "Bryan's communication package.",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@bguillen-tcs"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "Bryan Guillen",
+  "license": "MIT",
+  "repository": "bguillen-tcs/auto-poc",
+  "files": [
+    "index.js"
+  ]
+}
