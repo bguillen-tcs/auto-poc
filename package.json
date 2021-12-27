@@ -4,6 +4,9 @@
     "type": "git",
     "url": "git+https://github.com/bguillen-tcs/auto-poc.git"
   },
+  "scripts": {
+    "bootstrap": "lerna bootstrap --hoist"
+  },
   "keywords": [],
   "author": "Bryan Guillen",
   "license": "MIT",
@@ -16,5 +19,8 @@
       "npm"
     ],
     "onlyPublishWithReleaseLabel": true
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }
