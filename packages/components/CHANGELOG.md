@@ -1,3 +1,25 @@
+# v0.5.0 (Mon Dec 27 2021)
+
+#### 🚀 Enhancement
+
+- Box - BG Support [#11](https://github.com/bguillen-tcs/auto-poc/pull/11) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- Box - Border Support [#10](https://github.com/bguillen-tcs/auto-poc/pull/10) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### 🐛 Bug Fix
+
+- feat: add bg prop ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- feat(box): add support for border prop ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### ⚠️ Pushed to `master`
+
+- Merge branch 'master' of https://github.com/bguillen-tcs/auto-poc ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # v0.5.0 (Thu Dec 23 2021)
 
 #### 🚀 Enhancement
