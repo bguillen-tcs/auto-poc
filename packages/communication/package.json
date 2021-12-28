@@ -2,9 +2,6 @@
   "name": "@bguillen-tcs/communication",
   "version": "0.1.0",
   "description": "Bryan's communication package.",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@bguillen-tcs"
-  },
   "main": "index.js",
   "keywords": [],
   "author": "Bryan Guillen",
