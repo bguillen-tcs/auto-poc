@@ -1,3 +1,16 @@
+# v0.2.0 (Tue Dec 28 2021)
+
+#### 🐛 Bug Fix
+
+- chore: rm publishConfig [#15](https://github.com/bguillen-tcs/auto-poc/pull/15) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: rm publishConfig ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # v0.1.0 (Mon Dec 27 2021)
 
 #### 🚀 Enhancement

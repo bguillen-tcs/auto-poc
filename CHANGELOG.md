@@ -1,3 +1,21 @@
+# (Tue Dec 28 2021)
+
+#### 🚀 Enhancement
+
+- `@bguillen-tcs/auto-poc@0.6.0`
+  - Name Component [#16](https://github.com/bguillen-tcs/auto-poc/pull/16) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### 🐛 Bug Fix
+
+- `@bguillen-tcs/communication@0.2.0`, `@bguillen-tcs/auto-poc@0.6.0`
+  - chore: rm publishConfig [#15](https://github.com/bguillen-tcs/auto-poc/pull/15) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # (Mon Dec 27 2021)
 
 #### 🚀 Enhancement

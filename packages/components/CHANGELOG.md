@@ -1,3 +1,22 @@
+# v0.6.0 (Tue Dec 28 2021)
+
+#### 🚀 Enhancement
+
+- Name Component [#16](https://github.com/bguillen-tcs/auto-poc/pull/16) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### 🐛 Bug Fix
+
+- feat: add name ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- initial commit ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: rm publishConfig [#15](https://github.com/bguillen-tcs/auto-poc/pull/15) ([@bguillen-tcs](https://github.com/bguillen-tcs))
+- chore: rm publishConfig ([@bguillen-tcs](https://github.com/bguillen-tcs))
+
+#### Authors: 1
+
+- [@bguillen-tcs](https://github.com/bguillen-tcs)
+
+---
+
 # v0.5.1 (Mon Dec 27 2021)
 
 #### 🐛 Bug Fix
